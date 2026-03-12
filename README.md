@@ -11,7 +11,7 @@ Project Java thực hiện phép cộng hai số rất lớn bằng String.
 
 Clone project:
 
-git clone https://github.com/yourname/big-number-sum
+git clone https://github.com/TTIT1/big-number-sum
 
 Build project:
 
