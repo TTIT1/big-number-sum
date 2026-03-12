@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-12T17:25:44 GMT+07:00" name="MyBigNumberTest" finished-at="2026-03-12T17:25:44 GMT+07:00" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T17:25:44 GMT+07:00" name="Command line test" finished-at="2026-03-12T17:25:44 GMT+07:00" duration-ms="25">
+      <class name="MyBigNumberTest">
+        <test-method signature="testSum()[pri:0, instance:MyBigNumberTest@3fd7a715]" started-at="2026-03-12T17:25:44 GMT+07:00" name="testSum" finished-at="2026-03-12T17:25:44 GMT+07:00" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+      </class> <!-- MyBigNumberTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- MyBigNumberTest -->
+</testng-results>
